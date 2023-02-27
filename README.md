@@ -82,13 +82,11 @@ Both applicants with or without previous experience in open-source contributions
 >**_Our main objective is to provide applicants with notions on open-source contributions and spirit, as well as with basics and advanced skills needed to complete the project;_**
 
 ## How to contribute to the project?
-Applicants can contribute to this project through the [project repository](https://github.com/Mboalab/Mboalab_Outreachy-May-Aug-2022) on GitHub. 
-Check the Contributions Guidelines and the list of details via [Technical Documentation](https://docs.google.com/document/d/1fzB-AcfYNnsvqBlwyJZJR1SfuvpjYxxpONnv13bPGqg/edit?usp=sharing)
+Open and multy faceted contribution to this project are highly encouraged! Contributrions of any form following personnal interest, availability, or skill can be made through this project repository on GitHub. All participants are expected to follow our [community code of conduct](https://github.com/Mboalab/Mboalab_Outreachy-May-Aug-2022/blob/main/Community%20Norms/README.md) and check the Contributions Guidelines and the list of details task via Technical Documentation to be made available soon.
 
-## Mentor attribution
-Each project’s Starter Task is supervised by a specific mentor. Applicants desiring to contribute to a specific task should get in touch with the assigned mentor. 
-Information about the assigned mentor can be found in the task’s descriptions.
+Applicants can contribute to this project through the [project repository](https://github.com/Mboalab/Digital-Stethoscope-Project) on GitHub. 
+Check the Contributions Guidelines and the list of details via Technical Documentation to be provided.
 
-Information about Mboalab community Mentors can be found [Here](https://github.com/Mboalab/Mboalab_Outreachy-May-Aug-2022/tree/main/Meet_the_Mentors#readme).
+## Get in touch
 
-See [Meet the Mentors Folder.](https://github.com/Mboalab/Mboalab_Outreachy-May-Aug-2022/tree/main/Meet_the_Mentors)
+If you want to report a problem or suggest an improvement, feel free to [open an issue](https://github.com/Mboalab/Open-Diseases-Screener-App/issues) at this Github repository.
